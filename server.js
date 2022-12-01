@@ -22,6 +22,7 @@ app.use(
       'https://inventory-muq2owq55-robregan.vercel.app/',
       'https://inventory-1bzltjbie-robregan.vercel.app/',
       'https://inventory-rnl6ylees-robregan.vercel.app',
+      'https://inventory-802.netlify.app/',
     ],
     credentials: true,
   })
