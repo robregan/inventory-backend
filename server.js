@@ -20,6 +20,7 @@ app.use(
       'http://localhost:3000',
       'https://inventory-app-teal.vercel.app/',
       'https://inventory-muq2owq55-robregan.vercel.app/',
+      'https://inventory-1bzltjbie-robregan.vercel.app/',
     ],
     credentials: true,
   })
